@@ -1,0 +1,11 @@
+C:\Users\ahmet\source\repos\NesneHareketlerProjesi\NesneHareketlerProjesi\bin\Debug\NesneHareketlerProjesi.exe.config
+C:\Users\ahmet\source\repos\NesneHareketlerProjesi\NesneHareketlerProjesi\bin\Debug\NesneHareketlerProjesi.exe
+C:\Users\ahmet\source\repos\NesneHareketlerProjesi\NesneHareketlerProjesi\bin\Debug\NesneHareketlerProjesi.pdb
+C:\Users\ahmet\source\repos\NesneHareketlerProjesi\NesneHareketlerProjesi\obj\Debug\NesneHareketlerProjesi.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\NesneHareketlerProjesi\NesneHareketlerProjesi\obj\Debug\NesneHareketlerProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\source\repos\NesneHareketlerProjesi\NesneHareketlerProjesi\obj\Debug\NesneHareketlerProjesi.Form1.resources
+C:\Users\ahmet\source\repos\NesneHareketlerProjesi\NesneHareketlerProjesi\obj\Debug\NesneHareketlerProjesi.Properties.Resources.resources
+C:\Users\ahmet\source\repos\NesneHareketlerProjesi\NesneHareketlerProjesi\obj\Debug\NesneHareketlerProjesi.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\NesneHareketlerProjesi\NesneHareketlerProjesi\obj\Debug\NesneHareketlerProjesi.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\NesneHareketlerProjesi\NesneHareketlerProjesi\obj\Debug\NesneHareketlerProjesi.exe
+C:\Users\ahmet\source\repos\NesneHareketlerProjesi\NesneHareketlerProjesi\obj\Debug\NesneHareketlerProjesi.pdb
